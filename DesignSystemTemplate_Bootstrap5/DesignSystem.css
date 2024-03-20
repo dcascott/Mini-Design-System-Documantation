@@ -1,0 +1,92 @@
+.scope-one-regular {
+	font-family: "rufina", serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+body {
+	font-family: "poppins", "sans-serif" !important;
+
+}
+
+.rufina-regular {
+	font-family: "Rufina", serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.rufina-bold {
+	font-family: "Rufina", serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+.rufina {
+	font-family: "rufina", serif;
+}
+
+.poppins {
+	font-family: "poppins", sans-serif;
+}
+
+h1 {
+	font-family: "rutina", serif !important;
+	font-size: 47.78px;
+}
+
+h2 {
+	font-family: "rutina", serif;
+	font-size: 39.18px;
+}
+
+h3 {
+	font-family: "rutina", serif;
+	font-size: 33.18px;
+}
+
+h4 {
+	font-family: "rutina", serif;
+	font-size: 27.65px;
+}
+
+h5 {
+	font-family: "rutina", serif;
+	font-size: 23.04px;
+}
+
+h6 {
+	font-family: "rutina", serif;
+	font-size: 19.2px;
+}
+
+p {
+	font-family: "poppins", sans-serif;
+	font-size: 16px;
+}
+
+.hyperlinkColor {
+	color: blue;
+}
+
+.navlogo {
+	width: 20 px;
+	height: 20 px;
+}
+
+.navlink {
+	margin-left: 47 px;
+	margin-right: 47 px;
+}
+
+.contactBtn {
+	background-color: #4D9599;
+	color: white;
+}
+
+.cardBtn {
+	margin: auto;
+}
+
+.footer {
+	margin: auto;
+}
